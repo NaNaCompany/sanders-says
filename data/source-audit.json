@@ -1,0 +1,189 @@
+{
+  "slug": "sanders-says",
+  "captured_at": "2026-10-28T23:51:54.990547+00:00",
+  "coverage": "partial",
+  "records": 307,
+  "first": "2026-07-08",
+  "last": "2026-10-28",
+  "exact_time": 307,
+  "sources": [
+    {
+      "id": "nitter-public-timeline",
+      "url": "https://nitter.jaydenha.uk/BernieSanders/with_replies",
+      "creator": "Nitter public timeline (original X account linked for every record)",
+      "redistributed_fields": [
+        "post_id",
+        "author",
+        "ID-derived timestamp",
+        "original_permalink",
+        "post_kind"
+      ],
+      "body_rights": "Not established; all scraped bodies, media, translations and third-party summaries excluded"
+    }
+  ],
+  "failures": [],
+  "collection_limit_pages": 20,
+  "pages": [
+    {
+      "url": "https://nitter.jaydenha.uk/BernieSanders/with_replies",
+      "sha256": "18b15052d36f210166c7145122a8986d57fb8da7cbbf5a90256fe826791d6577",
+      "timeline_items": 19,
+      "accepted": 19,
+      "excluded": {}
+    },
+    {
+      "url": "https://nitter.jaydenha.uk/BernieSanders/with_replies?cursor=DAAHCgABHVwYdwE__-wLAAIAAAATMjExNDAxMzg5MjQ1NjE5ODU2MggAAwAAAAIAAA",
+      "sha256": "d913196630c884b68f0ec3b6b8a783148577dbd87a7409c5b6ab06a363d03f41",
+      "timeline_items": 20,
+      "accepted": 19,
+      "excluded": {
+        "missing-author-or-permalink": 1
+      }
+    },
+    {
+      "url": "https://nitter.jaydenha.uk/BernieSanders/with_replies?cursor=DAAHCgABHVwYdwE__9oLAAIAAAATMjExMjMzMzIwODgyNjI5ODgwNQgAAwAAAAIAAA",
+      "sha256": "721baf82ff3e2747ea51e5336f2362e077cb3b28cb61885aa49042740933a210",
+      "timeline_items": 21,
+      "accepted": 20,
+      "excluded": {
+        "missing-author-or-permalink": 1
+      }
+    },
+    {
+      "url": "https://nitter.jaydenha.uk/BernieSanders/with_replies?cursor=DAAHCgABHVwYdwE__8gLAAIAAAATMjExMTE1OTE3NzI1MDc4Nzc2NAgAAwAAAAIAAA",
+      "sha256": "35823a1195327abff20723902749d32a404ecfd0dfcd251283a7b80f9c899be4",
+      "timeline_items": 21,
+      "accepted": 20,
+      "excluded": {
+        "missing-author-or-permalink": 1
+      }
+    },
+    {
+      "url": "https://nitter.jaydenha.uk/BernieSanders/with_replies?cursor=DAAHCgABHVwYdwE__7QLAAIAAAATMjEwOTAwOTQ1MjY3MDA5OTgyOQgAAwAAAAIAAA",
+      "sha256": "013b8b91edbf0a14de923fc1c00b1979c2e5d11dda1a4c5657a6b8ba91c1c80b",
+      "timeline_items": 20,
+      "accepted": 19,
+      "excluded": {
+        "missing-author-or-permalink": 1
+      }
+    },
+    {
+      "url": "https://nitter.jaydenha.uk/BernieSanders/with_replies?cursor=DAAHCgABHVwYdwE__6ILAAIAAAATMjEwNjYwNDAzNTYwMDE5MTY4MwgAAwAAAAIAAA",
+      "sha256": "c49b116961cb4aedff473231942299aa97586715240939100f462c52ede414a6",
+      "timeline_items": 22,
+      "accepted": 20,
+      "excluded": {
+        "missing-author-or-permalink": 1,
+        "repost": 1
+      }
+    },
+    {
+      "url": "https://nitter.jaydenha.uk/BernieSanders/with_replies?cursor=DAAHCgABHVwYdwE__5ALAAIAAAATMjEwNDY3MTU0MjYwOTMzNDYxNQgAAwAAAAIAAA",
+      "sha256": "56d14e06dd2e47e6184c4634de18094f1fe2fae410268f5c2dac40006ffad6ac",
+      "timeline_items": 17,
+      "accepted": 16,
+      "excluded": {
+        "missing-author-or-permalink": 1
+      }
+    },
+    {
+      "url": "https://nitter.jaydenha.uk/BernieSanders/with_replies?cursor=DAAHCgABHVwYdwE__4ILAAIAAAATMjEwMzE0MzgwNzAyNTkwMTg3MggAAwAAAAIAAA",
+      "sha256": "f6c49f3aa5a28e63d8053da388f12f6151bf157189633d54ab27607c9c04b21d",
+      "timeline_items": 21,
+      "accepted": 19,
+      "excluded": {
+        "missing-author-or-permalink": 1,
+        "quote-without-authored-content": 1
+      }
+    },
+    {
+      "url": "https://nitter.jaydenha.uk/BernieSanders/with_replies?cursor=DAAHCgABHVwYdwE__28LAAIAAAATMjA5OTk2NzYxMTQ1MDU3NzIzNQgAAwAAAAIAAA",
+      "sha256": "affb008122361d30737d208c94cc7bb79647f4fc94bf4853cdc46e9e873bd9dc",
+      "timeline_items": 21,
+      "accepted": 20,
+      "excluded": {
+        "missing-author-or-permalink": 1
+      }
+    },
+    {
+      "url": "https://nitter.jaydenha.uk/BernieSanders/with_replies?cursor=DAAHCgABHVwYdwE__1sLAAIAAAATMjA5NjIyODc5MTY1OTk1NDM4MggAAwAAAAIAAA",
+      "sha256": "43f889154eeb2a5ec849940a59fb901c64b51cb8feb5bda8b8b0c03aec29783e",
+      "timeline_items": 19,
+      "accepted": 18,
+      "excluded": {
+        "missing-author-or-permalink": 1
+      }
+    },
+    {
+      "url": "https://nitter.jaydenha.uk/BernieSanders/with_replies?cursor=DAAHCgABHVwYdwE__0kLAAIAAAATMjA5MzM4NTg1MTYwMjY3NDAxNAgAAwAAAAIAAA",
+      "sha256": "7ad22c4bc99004823f2ef00aff11d099bd80eb9f7241560ce98b015894cd8cd8",
+      "timeline_items": 21,
+      "accepted": 20,
+      "excluded": {
+        "missing-author-or-permalink": 1
+      }
+    },
+    {
+      "url": "https://nitter.jaydenha.uk/BernieSanders/with_replies?cursor=DAAHCgABHVwYdwE__zgLAAIAAAATMjA5MDE4NDcwNzE2MTk0MDA2NQgAAwAAAAIAAA",
+      "sha256": "8e47e8f8184ff05ffb2bd0ece0ee20045c78e338e8c3647cfff973cb5e8d4356",
+      "timeline_items": 21,
+      "accepted": 20,
+      "excluded": {
+        "missing-author-or-permalink": 1
+      }
+    },
+    {
+      "url": "https://nitter.jaydenha.uk/BernieSanders/with_replies?cursor=DAAHCgABHVwYdwE__yULAAIAAAATMjA4NjUwODQ1OTg5NDE3ODE0MwgAAwAAAAIAAA",
+      "sha256": "2792f914eff04a74abf237d952a167fab852707615d2fb7534e5164f5c58513d",
+      "timeline_items": 21,
+      "accepted": 20,
+      "excluded": {
+        "missing-author-or-permalink": 1
+      }
+    },
+    {
+      "url": "https://nitter.jaydenha.uk/BernieSanders/with_replies?cursor=DAAHCgABHVwYdwE__xELAAIAAAATMjA4MjYwNDg0NDcwODE3NjEzOQgAAwAAAAIAAA",
+      "sha256": "dffb35f61efb3573ae9199bd0d4b0954efb3e2a6765d01e5815df0d5a255c9ca",
+      "timeline_items": 21,
+      "accepted": 20,
+      "excluded": {
+        "missing-author-or-permalink": 1
+      }
+    },
+    {
+      "url": "https://nitter.jaydenha.uk/BernieSanders/with_replies?cursor=DAAHCgABHVwYdwE__v4LAAIAAAATMjA4MDAyMjgzMTg5MTM2NjM3NAgAAwAAAAIAAA",
+      "sha256": "b32f170c38584112cf448defe9fc378a257042ddf4bc1543f295b75f8fc69593",
+      "timeline_items": 21,
+      "accepted": 20,
+      "excluded": {
+        "missing-author-or-permalink": 1
+      }
+    },
+    {
+      "url": "https://nitter.jaydenha.uk/BernieSanders/with_replies?cursor=DAAHCgABHVwYdwE__uoLAAIAAAATMjA3Nzg1NTMwMDk3MjEzMDM0MQgAAwAAAAIAAA",
+      "sha256": "f902bce4a055bfff11ea15e290d8c2b7d1e95338fde06228d7d11d5c94be125a",
+      "timeline_items": 19,
+      "accepted": 18,
+      "excluded": {
+        "missing-author-or-permalink": 1
+      }
+    },
+    {
+      "url": "https://nitter.jaydenha.uk/BernieSanders/with_replies?cursor=DAAHCgABHVwYdwE__tgLAAIAAAATMjA3NDkwNjYwMzY5ODk3MTAyOQgAAwAAAAIAAA",
+      "sha256": "cf779e8d63ffe7dd6fd7680bb76ecfef69e485c8d34ab5e8bc1145adc034a993",
+      "timeline_items": 1,
+      "accepted": 0,
+      "excluded": {
+        "missing-author-or-permalink": 1
+      }
+    }
+  ],
+  "excluded": {
+    "missing-author-or-permalink": 16,
+    "repost": 1,
+    "quote-without-authored-content": 1
+  },
+  "repost_policy": "Exclude every native repost; require matching top-level permalink, username and timeline-item author. Quotes require authored content; replies are eligible. Ambiguous records excluded.",
+  "translation_policy": "No translations collected or created. Official X embed displays original content.",
+  "post_body_policy": "Only factual metadata and original permalinks are redistributed; original content is loaded through the official X embed on demand."
+}

@@ -1,0 +1,22 @@
+{
+  "slug": "sanders-says",
+  "name": "Sanders Says",
+  "wordmark": "SANDERS",
+  "subject": "Bernie Sanders",
+  "handle": "BernieSanders",
+  "initials": "BS",
+  "color": "#526d86",
+  "profile": "https://x.com/BernieSanders",
+  "origin": "https://nanalab.kr/sanders-says",
+  "photo": null,
+  "portrait": "assets/portrait.svg",
+  "audience": "public",
+  "languages": [
+    "en"
+  ],
+  "coverage": "partial",
+  "content_mode": "official_embeds",
+  "browse_timezone": "UTC",
+  "reposts_excluded": true,
+  "translations": false
+}
